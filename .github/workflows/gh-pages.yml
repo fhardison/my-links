@@ -10,6 +10,6 @@ jobs:
   copy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cehckout@main
+      - uses: actions/checkout@main
       - name: "copy from public to docs"
         run: cp ./public ./docs
