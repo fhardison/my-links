@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Fletcher&#39;s links</title>
-    <link>https://amindforlangauge.org/links/categories/</link>
+    <link>https://amindforlangauge.org/my-links/categories/</link>
     <description>Recent content in Categories on Fletcher&#39;s links</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://amindforlangauge.org/links/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://amindforlangauge.org/my-links/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://amindforlangauge.org/links/categories/</loc>
+    <loc>https://amindforlangauge.org/my-links/categories/</loc>
   </url><url>
-    <loc>https://amindforlangauge.org/links/</loc>
+    <loc>https://amindforlangauge.org/my-links/</loc>
   </url><url>
-    <loc>https://amindforlangauge.org/links/tags/</loc>
+    <loc>https://amindforlangauge.org/my-links/tags/</loc>
   </url>
 </urlset>

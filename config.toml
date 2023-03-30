@@ -1,4 +1,4 @@
-baseURL = 'https://amindforlangauge.org/'
+baseURL = 'https://amindforlangauge.org/my-links/'
 languageCode = 'en-us'
 title = "Fletcher's links"
 theme = "lynx" 

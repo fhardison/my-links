@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fletcher&#39;s links</title>
-    <link>https://amindforlangauge.org/links/tags/</link>
+    <link>https://amindforlangauge.org/my-links/tags/</link>
     <description>Recent content in Tags on Fletcher&#39;s links</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://amindforlangauge.org/links/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://amindforlangauge.org/my-links/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
