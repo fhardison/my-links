@@ -1,0 +1,6 @@
+[submodule "themes/linkshrubbery"]
+	path = themes/linkshrubbery
+	url = https://github.com/tohn/linkshrubbery.git
+[submodule "themes/lynx"]
+	path = themes/lynx
+	url = https://github.com/jpanther/lynx

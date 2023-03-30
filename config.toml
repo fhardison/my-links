@@ -1,0 +1,20 @@
+baseURL = 'https://amindforlangauge.org/links/'
+languageCode = 'en-us'
+title = "Fletcher's links"
+theme = "lynx" 
+
+[author]
+  name = 'Fletcher Hardison'
+  headline= "Translation • Greek • Goats"
+  links = [
+    { link = { href="https://amindforlanguage.com", text="website" } },
+    { twitter = "https://twitter.com/jackhardison" },
+    { github = "https://github.com/fhardison" },
+    { email = {href="mailto:fhardison@gmail.com", text="fhardison@gmail.com" } }
+  ]
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
