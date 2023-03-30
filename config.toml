@@ -2,6 +2,7 @@ baseURL = 'https://amindforlangauge.org/links/'
 languageCode = 'en-us'
 title = "Fletcher's links"
 theme = "lynx" 
+publishDir = "docs"
 
 [author]
   name = 'Fletcher Hardison'
