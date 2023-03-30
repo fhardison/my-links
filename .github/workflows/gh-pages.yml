@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - name: "copy from public to docs"
-        run: cp ./public ./docs
+        run: cp -r ./public ./docs
